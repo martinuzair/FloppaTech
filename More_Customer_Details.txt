@@ -1,0 +1,11 @@
+Name,Services,Service Category,Date of Request,Status,Date of Completion,Description,Price
+Jude,S4,2,04-10-2023,Completed,05-10-2023,Troubleshoot,250
+Jake,S6,1,04-10-2023,Pending,-,Motherboard Repair,150
+Jim,S5,1,05-10-2023,Pending,05-10-2023,Remove Virus,200
+Jordan,S3,1,04-10-2023,Pending,-,Change Battery,180
+Fiona,S4,2,13-07-2023,Pending,-,Change batter,210
+Jaden,S2,1,05-08-2023,Completed,8-8-2023,Troubleshot and fix computer running slow,60
+Danya,S3,2,18-03-2023,Completed,21-03-2023,Slight Issue with the Hinge but All is Resolved,380
+Miya,S1,2,06-05-2023,Completed,9-6-2023,Remove Virus,50
+Sid,S5,1,19-06-2023,Completed,28-6-2023,Operating System Format and Installation,100
+TanJayJay,S2,1,01-01-23,Completed,05-01-2023,No Problem with Repair,90

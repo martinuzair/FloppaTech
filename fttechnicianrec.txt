@@ -1,0 +1,2 @@
+Technician ID,First Name,Last Name,Date of Birth,Contact Number,Address,Service Specialism
+FTTC01,Richard,Ong,11-09-2000,014-3124561,9 Reko Sentral 60000 Selangor,S5

@@ -1,0 +1,4 @@
+ID/Username,Password,Role
+FTAD01,martin,ADMINISTRATOR
+FTTC01,richard,TECHNICIAN
+FTRC01,marcus,RECEPTIONIST

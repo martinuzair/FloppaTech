@@ -1,0 +1,10 @@
+Jude,Wong,012-2122234,wongjude@gmail.com,2,S4
+Jack,Swong,012-9870989,Jackswong@gmail.com,1,S6
+Jim,Tan,016-4326895,JimmyJJump@gmail.com,1,S5
+Jordan,Micheal,012-9096578,Jordanbasket@gmail.com,1,S3
+Fiona,Newton,018-9874059,Fiona@gmail.com,2,S4
+Jaden,Yorga,013-5673245,Jaden@gmail.com,1,S2
+Danya,Victoria,013-3123121,dannyd@gmail.com,2,S3
+Miya,Ming,010-4458937,Mamaing@gmail.com,2,S1
+Sid,dart,012-0099983,Sidddd@gmail.com,1,S5
+TanJayJay,Guat,016-6679807,Tanjayjay@gmail.com,1,S2

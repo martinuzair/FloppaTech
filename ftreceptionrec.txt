@@ -1,0 +1,2 @@
+Technician ID,First Name,Last Name, Date of Birth,Address,Language 1,Language 2
+FTRC01,Lee,Marcus,21-11-1999,21 Jalan Laga 43100 Pahang,Mandarin,English,English
